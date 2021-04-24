@@ -1,3 +1,4 @@
 Mudança no arquivo a.txt
 Entendo o HEAD - aula 4
 Aula 5 - Essa linha foi modificada no ramo Master
+aula 5 - linha modificada no ramo teste
